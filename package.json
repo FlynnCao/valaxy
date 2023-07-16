@@ -23,6 +23,7 @@
     "build": "pnpm run build:valaxy",
     "build:valaxy": "pnpm -C packages/valaxy run build",
     "build:demo": "pnpm -C demo/yun run build",
+    "build:blog": "pnpm -C /blog run build",
     "build:docs": "pnpm -C docs run build",
     "ci:publish": "zx scripts/publish.mjs",
     "demo": "pnpm run demo:yun",
