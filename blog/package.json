@@ -1,0 +1,30 @@
+{
+  "name": "yun-demo",
+  "valaxy": {
+    "theme": "yun"
+  },
+  "scripts": {
+    "build": "npm run build:ssg && npm run rss && npm run fuse",
+    "build:spa": "valaxy build",
+    "build:ssg": "valaxy build --ssg --log=info",
+    "dev": "nodemon -w \"../../packages/valaxy/dist/*.cjs\" --exec \"valaxy . --port 3333\"",
+    "fuse": "valaxy fuse",
+    "new": "valaxy new",
+    "rss": "valaxy rss",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "valaxy": "workspace:*",
+    "valaxy-addon-algolia": "workspace:*",
+    "valaxy-addon-components": "workspace:*",
+    "valaxy-addon-lightgallery": "workspace:*",
+    "valaxy-addon-twikoo": "workspace:*",
+    "valaxy-addon-waline": "workspace:*",
+    "valaxy-theme-yun": "workspace:*"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "vite-plugin-inspect": "^0.7.32",
+    "vite-plugin-pwa": "^0.16.4"
+  }
+}
