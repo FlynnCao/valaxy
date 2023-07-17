@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://flynncaoblog.vercel.app/',
   lang: 'en-US',
   title: '彼方云海的青空',
   subtitle: 'INTP-J | he/him | lang=cn/en/ja',
