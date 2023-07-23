@@ -1,5 +1,5 @@
 ---
-title: Vue的nextTick函数及JavaScript异步原理
+title: (CN Only) Vue的nextTick函数及JavaScript异步原理
 date: 2021-08-06
 updated: 2021-08-06
 tags:

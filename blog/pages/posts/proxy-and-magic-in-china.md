@@ -1,5 +1,5 @@
 ---
-title: Git、NPM、Maven、Pip 镜像和代理加速下载设置（国内食用）
+title: (CN Only) Git、NPM、Maven、Pip 镜像和代理加速下载设置（国内食用）
 date: 2022-07-13 01:44:38
 updated: 
 tags:

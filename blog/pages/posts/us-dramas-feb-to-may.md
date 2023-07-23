@@ -1,5 +1,5 @@
 ---
-title: 高分完结美剧点评（2-5月）
+title: Highly Rated American Drama Reviews (Feb-May) | 高分完结美剧点评（2-5月）
 date: 2023-06-2
 updated: 2023-06-2
 id: 1689425980
@@ -9,8 +9,8 @@ tags:
 categories:
   - review
 ---
+:::zh-CN
 注意，这篇文章全是剧透，慎入。因为全都是动辄5、6季的剧集所以会比较长。本次涉及到的美剧有《纸牌屋》、《绝命毒师》。
-
 # 纸牌屋（House of Cards）
 
 ## 人物篇
@@ -257,3 +257,189 @@ Breaking Bad是一部绝佳的禁毒宣传片。不管是癫狂的pinkman, 走�
 | ---- | --------- |
 | IMDB | 9.5       |
 | 个人 | 9.5      |
+
+:::
+:::en
+Note: This text contains spoilers for the TV shows "House of Cards" and "Breaking Bad." Read at your own discretion.
+
+House of Cards
+==============
+
+Character Section
+-----------------
+
+### Frank Underwood
+
+As the core character throughout the series, it can be said that this role has no career blind spots and is full of personal charm. However, Frank never had genuine friends or lovers in his life, which is his greatest flaw. His life goal was to live and die for politics, as he and Claire never had children or any inheritance (giving off a feeling similar to the Night's Watch in Game of Thrones). If we were to calculate, American Works is probably his only legacy.
+
+Frank's life was filled with countless conspiracies, such as murdering Zoe Barnes, deceiving Raymond Tusk after the Education Bill, framing Garrett Walker, deceiving Jackie Sharp, manipulating and coercing the murder of Peter Russo, and using public fear of ICO to spread rumors and buy time for the election. Overall, the entire system chose Frank, and there's little sense of right or wrong; we shouldn't blame the player for the game's mistakes.
+
+Attached is a speech from the House of Representatives, which serves as a summary of Frank's character:
+
+[Watch the speech](https://www.youtube.com/watch?v=QLf4rnJYUGk&ab_channel=AJ%27sMixx)
+
+> Will Conway's failure is simply because he had blemishes from his early military actions (also, he wasn't strong-willed or ruthless enough), which caused his public image to collapse. But remember, Will was not as monstrous as his opponent Frank!
+
+PS: Unfortunately, due to the actor's involvement in a sexual harassment scandal during the fifth season, the character was forcefully written out, leading to a peculiar conclusion.
+
+### Claire Underwood
+
+![Claire Underwood](https://raw.githubusercontent.com/FlynnCao/blog-images/main/img/20230715211929.png)
+
+The marriage of the Underwoods is quite pragmatic (aimed at achieving political success, more of a strategic partnership), and it is evident that Claire saw the potential in Francis (plus, the trope of an underprivileged man using a wealthy woman to rise to power is quite common).
+
+In the early seasons, Claire made sacrifices for the sake of gaining higher positions, and she traded her privacy (being sexually assaulted during her college years) and occasionally experiencing moments of love. Regarding their marriage, as Christians, these are sensitive topics that can also serve as potent plot elements.
+
+In the context of the show, Tom Yates is a mere tool (devoted himself to his work), and his fate was much worse than that of Adam Galloway. However, Tom Yates falls under the category of "knowing too much." It's not about possessing actual information, but rather understanding the thoughts of the Underwoods.
+
+Among them, the storylines involving the Jordan Valley crisis and Petrov in Russia are quite interesting. As an ambassador, Claire handles her work exceptionally well, skillfully resolving numerous crises. Her support for the gay community, which led to the failure of the US-Russia agreement, shows a rare glimmer of humanity (at least more than Frank's) and is, of course, a controversial choice.
+
+Claire's rebellion and rise represent the feminist movement. However, from a personal perspective, the show still reflects that the US hasn't completely escaped the patriarchal framework.
+
+
+
+
+### Edward Meechum
+![Meechum and Frank](https://raw.githubusercontent.com/FlynnCao/blog-images/main/img/20230715211957.png)
+If Douglas is a conditionally loyal character, Meechum can be described as absolutely loyal. Of course, Meechum's relationship with the Underwoods is far more complex than a mere employer-employee relationship (there was a hint of a threesome at some point). A single picture could sum up Meechum:
+
+### Zoe Barnes, Lucas Goodwin, Janine Skorsky, Tom Hammerschmidt
+
+These characters share a common timeline.
+
+Zoe Barnes was a journalist who exchanged physical intimacy for information from Frank, and her murder was simply due to "knowing too much." Lucas Goodwin, later in the series, became obsessed and went crazy (which ultimately led to his attempt to assassinate Frank). Janine Skorsky (Eastern European) and Tom Hammerschmidt (with a German-sounding name) were more rational journalists who eventually reported and exposed most of the Underwoods' crimes. Tom Hammerschmidt lived the longest, but he couldn't escape his fate of being killed.
+
+In short, these characters represent the conscience of America.
+
+### Doug Stamper
+
+A perfect tool. It's evident that he is someone who lacks love, leading to critical mistakes. Doug's loyalty is commendable (including threatening a doctor to get a liver for Frank, even though his own credentials could have allowed him to prosper in any opposing camp), but he is not without his methods (e.g., retaliating against Claire with a bug on the White House table and trying to deceive Heather Dunbar when she joined the 2016 election).
+
+Of course, the most mind-boggling aspect of the entire series is Doug's death at the hands of Claire in the last season. The scene of Doug lying on the ground is absurd, and that ending left me feeling empty and angry (much different from the fulfilling ending of Breaking Bad).
+
+Apologies for the mix-up.
+
+### Peter Russo
+
+A classic prodigal son storyline (reminds me of Robert Downey Jr.). However, Peter lacks the ruthlessness in political struggle that Frank possesses. His multiple relapses into alcoholism led to his downfall and death. The storyline involving Catherine after Peter's death had little progression, which is regrettable. It's unclear how the original work handled this character, but it seems Peter was destined to meet a tragic end.
+
+### "Jackie" Sharp, Remy Danton
+
+These two characters have a more tragic storyline. Remy, as a pawn of major players, is repeatedly used but ultimately realizes that he can never penetrate the inner circle. Jackie, on the other hand, is deceived and manipulated by Underwood and is ultimately threatened. Her marriage, which she worked hard to find, is also terminated for various reasons (probably because she has never had a genuine love relationship).
+
+It's safe to say that their military backgrounds make them more straightforward, but they can't compete with the cunning players (similar to Ted Brockhart, Will's campaign partner).
+
+### Freddy Hayes
+
+Freddy, the skilled rib cook, is aware of his place (a familiar stranger to Frank). This is partly because Frank never had normal friendships (only relationships based on domination or being dominated, including with Claire). This aspect is evident when he speaks with his grandson, "It's OK to dream as long as they aren't fantasies." He is a person with his own pride (as shown when he beats up Tom Hammerschmidt after he comes to ask for information).
+
+Overall, this character is quite interesting.
+
+Summary
+-------
+
+House of Cards fully reflects the strengths and weaknesses of American society.
+
+Of course, what system doesn't have people using rules to achieve their goals through any means possible? But the critical question is, "What is the cost?"
+
+The conclusion is clear. Quoting a line from another American series, "Chernobyl":
+
+"What is the cost of lies? It's not that we'll mistake them for the truth. The real danger is that if we hear enough lies, then we no longer recognize the truth at all."
+
+Satire: If the ending was less absurd, it would have been an excellent show. However, it seems the creators just wanted to finish it without much thought, which is regrettable. Kevin Spacey, the main actor, has a fantastic performance on YouTube, showcasing his acting talent (he can be very persuasive). This 5-minute video surpasses the entire sixth season.
+
+[Watch Kevin Spacey's performance](https://www.youtube.com/watch?v=JZveA-NAIDI&ab_channel=KevinSpacey)
+
+
+| Category | Rating (/10) |
+| --- | --- |
+| IMDB | 8.7 |
+| Personal | 8 |
+
+
+Breaking Bad
+============
+
+Excluding some documentaries, this is the highest-rated TV show on IMDb. Breaking Bad tells the story of a middle-aged man's journey to the top.
+
+Character Section
+-----------------
+
+
+### Walter White
+![Walter White](https://raw.githubusercontent.com/FlynnCao/blog-images/main/img/20230715212331.png)
+
+As the main character of the show, Walter White's transformation is gradually observed by the audience and not some sudden occurrence. He started as a disgruntled high school teacher (of course, it's mentioned early on that he was involved in a Nobel Prize), and he gradually got involved in drug production (cooking meth) due to unforeseen circumstances and coincidences.
+
+Walter always had opportunities to back down, but each time, he chose to continue, driven by his ego and his struggle against the world. Walter's ego (or pride) is one of the reasons he couldn't turn back at many points in his journey, and it's also what led him to reach the pinnacle.
+
+One crucial moment was when he refused Gretchen and Elliott's medical funds for his cancer treatment.
+
+This event forced Walter to expand his business and eventually led him to get involved with Gus Fring. Regardless of killing Gus Fring, Gale, or his early drug dealer, Tuco, Jesse Pinkman played a role, but Walter's courage and ambition only grew stronger, and he became more proficient at killing (such as making a wheelchair bomb and poison in cigars).
+
+But in the final season, there was still a turning point. In the cabin in the snow, he could have lived the rest of his life there or escaped to another country. But then he saw the interview with Gretchen and Elliott on TV, which fueled his frustration and resentment.
+
+After that, revenge...
+
+But there was no turning back. Walter could no longer return to the peaceful nights, being Mr. White with his newborn daughter, his unsuspecting wife, and the father-son relationship with Pinkman... The illusions shattered, leaving only Walter and his laboratory.
+
+### Jesse Pinkman
+
+![Jesse Pinkman](https://raw.githubusercontent.com/FlynnCao/blog-images/main/img/20230715212607.png)
+
+One of the most surreal aspects of the show is that the craziest character, Pinkman, lived until the end. Of course, this is due to Walter's constant willingness to save him unconditionally (whether it's Tuco, Gus Fring, or finally the neo-Nazis).
+
+Saving him also involved making some ruthless choices, such as allowing Jane to die to awaken Jesse from drug addiction. She was so beautiful!
+
+For this character, Jesse is not a good person or a bad person. He's just a regular person, neither an angel nor a demon. Whether it's "no more children" or every trigger of a gun, Jesse hasn't changed, and that's what makes him admirable and tragic.
+
+What kind of life awaits Jesse after experiencing all of this? It's probably better than the kid he saved in the second season, with a normal childhood and a caring brother and father-figure willing to lend him a hand whenever he needs it.
+
+[Watch Jesse Pinkman's scene](https://www.youtube.com/shorts/Zkp8qCV-F6s/)
+
+> If you can't use YouTube: [Watch on Bilibili](https://www.bilibili.com/video/BV1LS4y147Wz/)
+
+### Skyler White
+
+Possibly the most controversial character in the show. If there was anyone who could have corrected Walter from veering further down the wrong path, it would have been Skyler. She personifies the fear of ordinary people towards a demon, but she couldn't avoid greed and betrayal (most notably, betraying Walter).
+
+Setting aside issues like smoking while pregnant, the most unforgivable actions were her affair with Ted Beneke, leading to her involvement in his tax problems due to her false sense of justice, using half of the money Walter earned for their family to pay off Ted's debts, and eventually blaming Walter for breaking the television after TB's death...
+
+The most foolish act of all was breaking her son's perception of his father, leading to the collapse of the lies that Walter had carefully constructed. This sentencing Walter to death.
+
+![Skyler](https://raw.githubusercontent.com/FlynnCao/blog-images/main/img/20230715212842.png)
+
+Regarding the issues of the toxic friends, I believe that they are not within the scope of this discussion. Marie Schrader, with her kleptomania, has many personal issues, such as vanity, etc.
+
+### Mike Ehrmantraut
+
+A very professional hitman, a real tough guy.
+
+In many ways, this character is superior to Walter. At least, Mike is a hitman seemingly working for his family's well-being (he doesn't even leave a portion of his earnings for his granddaughter, which is a shame). On the other hand, Walter did many things just to satisfy his pride or his misguided idea of being "good."
+
+"Shut the fuck up Walter, let me die in peace."
+
+### Hank Schrader
+
+The clever writing of the show always intertwined Hank and Walter's cases and actions through coincidence, but this is understandable as they live in a small town.
+
+Hank Schrader is one of the few good people in the show, whether it's taking risks to secure a promotion and fulfill his wife's small Washington dream or working hard to reconcile family conflicts. But sometimes his pursuit of justice becomes excessive, as seen when he punches Pinkman in the face, and it leads to his anger and estrangement after learning that Walter White is the elusive Heisenberg. The once lovely family relationship shattered...
+
+In conclusion, Hank represents the epitome of "absolute justice." He would never bow to the drug dealer he had been chasing his whole life. R.I.P.
+
+### Summary
+
+Breaking Bad is an excellent anti-drug campaign. Whether it's the crazy Pinkman, the rise and fall of White, the innocent children (like Drew Sharp, who was killed just for witnessing a robbery), or the chaos caused by drug addicts, the show portrays it all.
+
+What makes it the best is that it maintains the normal progression of the characters, without any forced, artificial plotlines or characters. Everything seems natural and interconnected.
+
+Anger, joy, violence, calm, sadness, trust, betrayal, revenge... This is the story of humanity.
+
+Happiness can be simple, but it can also be complex.
+
+
+| 类别 | 评分(/10) |
+| ---- | --------- |
+| IMDB | 9.5       |
+| 个人 | 9.5      |
+:::

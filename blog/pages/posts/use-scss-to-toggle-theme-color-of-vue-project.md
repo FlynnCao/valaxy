@@ -1,5 +1,5 @@
 ---
-title: 利用SASS/SCSS切换Vue项目主题
+title: (CN Only) 利用SASS/SCSS切换Vue项目主题
 date: 2021-04-17
 updated: 2021-04-17
 tags:

@@ -2,14 +2,14 @@ import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
   url: 'https://flynncaoblog.vercel.app/',
-  lang: 'en-US',
-  title: '彼方云海的青空',
-  subtitle: 'INTP-J | he/him | lang=cn/en/ja',
+  lang: 'zh-CN',
+  title: '彼方（Maji-May)',
+  subtitle: 'Web Developer | he/him | lang=cn/en/ja',
   author: {
-    name: 'Flynn Cao',
+    name: 'SAKURAMAJI-MAY',
     avatar: 'https://s.gravatar.com/avatar/064ae09a1f5d9cff51069ed1a71d2bd410540d5bd136334161a43e37f27e4795?s=80',
   },
-  description: 'Go ahead, make my day.',
+  description: 'Logic will get you from A to Z; imagination will get you everywhere.',
   social: [
     {
       name: 'RSS',

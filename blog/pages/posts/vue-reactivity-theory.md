@@ -1,5 +1,5 @@
 ---
-title: Vue2数据响应式原理
+title: (CN Only) Vue2数据响应式原理
 date: 2021-11-21
 updated: 2021-11-21
 tags:

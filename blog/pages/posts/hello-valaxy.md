@@ -1,5 +1,5 @@
 ---
-title: Hello, Valaxy!
+title: Hello, Valaxy! | 你好，Valaxy!
 date: 2023-07-12
 updated: 2023-07-12
 categories: blog
