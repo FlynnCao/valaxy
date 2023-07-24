@@ -3,7 +3,7 @@ title: 关于我
 ---
 
 :::en
-Hey there! I’m Flynn Cao, a student pursuing my MSE degree and also ~~working~~ self-employing as a software developer.
+Hey there! I’m Flynn Cao, a student pursuing my MSE degree in UM and also ~~working~~ self-employing as a software developer.
 
 If you’re interested in checking out my open-source contributions and following along with my learning journey, you can find me on GitHub at https://github.com/flynncao.
 
@@ -25,7 +25,7 @@ Others Hobbies:
 
 :::zh-CN
 
-嗨~我是Flynn Cao，你也可以叫我「彼方」, 目前是学生。
+嗨~我是Flynn Cao，你也可以叫我「彼方」, 是学生。
 
 如果你对我的开源或者参与过的项目感兴趣，可以关注我的[Github](https://github.com/FlynnCao/)。
 
