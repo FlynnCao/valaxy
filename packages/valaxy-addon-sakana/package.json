@@ -1,0 +1,20 @@
+{
+  "name": "valaxy-addon-sakana",
+  "version": "1.0.0",
+  "description": "Add the Sakana! Widget to your Valaxy blog!",
+  "author": "Flynn Cao",
+  "license": "MIT",
+  "keywords": [
+    "valaxy",
+    "addon",
+    "sakana-widget"
+  ],
+  "main": "App.vue",
+  "global": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sakana-widget": "^2.6.0"
+  }
+}

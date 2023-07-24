@@ -71,11 +71,12 @@
     "valaxy-addon-algolia": "workspace:*",
     "valaxy-addon-components": "workspace:*",
     "valaxy-addon-lightgallery": "workspace:*",
+		"valaxy-addon-sakana": "workspace:*",
     "valaxy-addon-twikoo": "workspace:*",
     "valaxy-addon-waline": "workspace:*",
     "valaxy-theme-press": "workspace:*",
     "valaxy-theme-yun": "workspace:*",
-    "vitest": "^0.33.0",
+		"vitest": "^0.33.0",
     "vue-tsc": "1.8.5",
     "zx": "^7.2.3"
   },

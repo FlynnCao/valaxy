@@ -7,6 +7,7 @@ import { addonAlgolia } from 'valaxy-addon-algolia'
 import { addonWaline } from 'valaxy-addon-waline'
 import { addonComponents } from 'valaxy-addon-components'
 import { addonLightGallery } from 'valaxy-addon-lightgallery'
+import { addonSakana } from 'valaxy-addon-sakana'
 
 const safelist = [
   'i-ri-home-line',
@@ -94,6 +95,7 @@ export default defineValaxyConfig<ThemeConfig>({
       indexName: 'valaxy',
     }),
     addonComponents(),
+    addonSakana(),
     addonWaline({
       serverURL: 'https://waline.yunyoujun.cn',
       pageview: true,

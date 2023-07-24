@@ -10,6 +10,7 @@ yarn.lock
 .vite-ssg-temp
 *.local
 dist
+blog
 dist-ssr
 node_modules
 .idea/

@@ -86,6 +86,9 @@ importers:
       valaxy-addon-lightgallery:
         specifier: workspace:*
         version: link:packages/valaxy-addon-lightgallery
+      valaxy-addon-sakana:
+        specifier: workspace:*
+        version: link:packages/valaxy-addon-sakana
       valaxy-addon-twikoo:
         specifier: workspace:*
         version: link:packages/valaxy-addon-twikoo
@@ -122,6 +125,9 @@ importers:
       valaxy-addon-lightgallery:
         specifier: workspace:*
         version: link:../../packages/valaxy-addon-lightgallery
+      valaxy-addon-sakana:
+        specifier: workspace:*
+        version: link:../../packages/valaxy-addon-sakana
       valaxy-addon-twikoo:
         specifier: workspace:*
         version: link:../../packages/valaxy-addon-twikoo
@@ -196,18 +202,6 @@ importers:
       prompts:
         specifier: ^2.4.2
         version: 2.4.2
-
-  packages/css-i18n:
-    devDependencies:
-      '@types/markdown-it-container':
-        specifier: ^2.0.5
-        version: 2.0.5
-      markdown-it:
-        specifier: ^13.0.1
-        version: 13.0.1
-      markdown-it-container:
-        specifier: ^3.0.0
-        version: 3.0.0
 
   packages/valaxy:
     dependencies:
@@ -454,6 +448,12 @@ importers:
       lightgallery:
         specifier: ^2.7.1
         version: 2.7.1
+
+  packages/valaxy-addon-sakana:
+    dependencies:
+      sakana-widget:
+        specifier: ^2.6.0
+        version: 2.6.0
 
   packages/valaxy-addon-twikoo:
     dependencies:
@@ -2667,6 +2667,10 @@ packages:
     dependencies:
       '@jridgewell/resolve-uri': 3.1.0
       '@jridgewell/sourcemap-codec': 1.4.14
+
+  /@juggle/resize-observer@3.4.0:
+    resolution: {integrity: sha512-dfLbk+PwWvFzSxwk3n5ySL0hfBog779o8h68wK/7/APo/7cgyWp5jcXockbxdk5kFRkbeXWm4Fbi9FrdN381sA==}
+    dev: false
 
   /@mdit-vue/plugin-component@0.12.0:
     resolution: {integrity: sha512-LrwV3f0Y6H7b7m/w1Y3bkGuR3HOiBK4QiHHW3HuRMza6MZodDQbj8Baik5/V5GiSg1/ltijS1CymVcycd1EfTw==}
@@ -7371,6 +7375,7 @@ packages:
 
   /markdown-it-container@3.0.0:
     resolution: {integrity: sha512-y6oKTq4BB9OQuY/KLfk/O3ysFhB3IMYoIWhGJEidXt1NQFocFK2sA2t0NYZAMyMShAGL6x5OPIbrmXPIqaN9rw==}
+    dev: false
 
   /markdown-it-emoji@2.0.2:
     resolution: {integrity: sha512-zLftSaNrKuYl0kR5zm4gxXjHaOI3FAOEaloKmRA5hijmJZvSjmxcokOLlzycb/HXlUFWzXqpIEoyEMCE4i9MvQ==}
@@ -8493,6 +8498,12 @@ packages:
 
   /safer-buffer@2.1.2:
     resolution: {integrity: sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==}
+
+  /sakana-widget@2.6.0:
+    resolution: {integrity: sha512-uYG7loibwAB6bwNUy4VvYt0jREy4cUIEA/vdQJa27HgySHtN1bmEjHfQu3CVeohinxsSTRcuqJvPew+SaG2p6w==}
+    dependencies:
+      '@juggle/resize-observer': 3.4.0
+    dev: false
 
   /sass@1.64.0:
     resolution: {integrity: sha512-m7YtAGmQta9uANIUJwXesAJMSncqH+3INc8kdVXs6eV6GUC8Qu2IYKQSN8PRLgiQfpca697G94klm2leYMxSHw==}
