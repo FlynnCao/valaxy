@@ -4,9 +4,9 @@ import type { ThemeConfig } from 'valaxy-theme-yun'
 import { addonAlgolia } from 'valaxy-addon-algolia'
 
 // import { addonTwikoo } from 'valaxy-addon-twikoo'
-import { addonWaline } from 'valaxy-addon-waline'
 import { addonComponents } from 'valaxy-addon-components'
 import { addonLightGallery } from 'valaxy-addon-lightgallery'
+import { addonWaline } from 'valaxy-addon-waline'
 
 const safelist = [
   'i-ri-home-line',
@@ -16,7 +16,7 @@ export default defineValaxyConfig<ThemeConfig>({
   // site config see site.config.ts or write in siteConfig
   // siteConfig: {},
 
-  theme: 'yun',
+  theme: 'ginro',
   themeConfig: {
     // colors: {
     //   primary: 'red',

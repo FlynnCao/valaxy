@@ -73,6 +73,7 @@
     "valaxy-addon-lightgallery": "workspace:*",
     "valaxy-addon-twikoo": "workspace:*",
     "valaxy-addon-waline": "workspace:*",
+    "valaxy-theme-ginro": "workspace:*",
     "valaxy-theme-press": "workspace:*",
     "valaxy-theme-yun": "workspace:*",
     "vitest": "^0.33.0",
